@@ -1,1 +1,0 @@
-const t='{"documentCount":1,"nextId":1,"documentIds":{"0":"/navigation/#前端导航"},"fieldIds":{"title":0,"titles":1,"text":2},"fieldLength":{"0":[1,1,1]},"averageFieldLength":[1,1,1],"storedFields":{"0":{"title":"前端导航","titles":[]}},"dirtCount":0,"index":[["前端导航",{"0":{"0":1}}]],"serializationVersion":2}';export{t as default};
